@@ -840,3 +840,4 @@ msgstr "ཁྱེད་ཀྱིས་འགེངས་གནས་འདི་
 #: Mobapp audioclips.xml
 msgid "daily_broadcast"
 msgstr "ཉིན་རེའི་གསར་འགྱུར།"
+
